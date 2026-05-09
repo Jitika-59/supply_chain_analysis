@@ -28,7 +28,7 @@ This project presents an interactive Excel dashboard designed to analyze supplie
 * Supplier 3 has longer lead and manufacturing times, potentially impacting delivery performance.
 * Supply dependency is concentrated among top suppliers, posing a potential risk to operations.
 
-**###Key Business Insights – Company Overview Dashboard**
+**Key Business Insights – Company Overview Dashboard**
 
 * Chennai generates the highest revenue among all locations, while Delhi contributes the lowest revenue, indicating regional performance differences.
 * Skincare is the highest-revenue product category, outperforming cosmetics and haircare.
@@ -46,12 +46,6 @@ This project presents an interactive Excel dashboard designed to analyze supplie
 * Pivot Tables & Charts
 * Data Validation & Slicers
 * VBA (for automation)
-  
-### ⚙️ Automation
-
-* Automated data cleaning (handling missing values)
-* One-click dashboard refresh using VBA
-* Event-based refresh on workbook open
 
 ### 📌 Use Case
 
